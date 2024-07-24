@@ -1,0 +1,13 @@
+
+.subtext-with-image {
+  font-size: 1.125rem;
+  background: url('./assets//images//greenview.jpg') no-repeat;
+  background-size: cover;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/* Add these styles to your CSS file or inside a <style> tag in your JSX */
+.bg-green-image {
+  background: url('./assets//images/greenview.jpg') no-repeat center center;
+  background-size: cover;
+}
